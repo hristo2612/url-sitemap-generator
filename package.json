@@ -1,0 +1,16 @@
+{
+  "name": "url-sitemap-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "args": "^5.0.1",
+    "sitemap-generator": "^8.4.2"
+  }
+}
